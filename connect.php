@@ -27,16 +27,7 @@
 		}
 	
 
-.image {
-    width: 700px;
-    height: 620px;
-    -webkit-animation:spin 8s linear infinite;
-    -moz-animation:spin 8s linear infinite;
-    animation:spin 5s linear infinite;
-}
-@-moz-keyframes spin { 100% { -moz-transform: rotate(-360deg); } }
-@-webkit-keyframes spin { 100% { -webkit-transform: rotate(-360deg); } }
-@keyframes spin { 100% { -webkit-transform: rotate(-360deg); transform:rotate(-360deg); } }
+
 </style>
 
 <?php
@@ -47,15 +38,15 @@
 	foreach($image as $img) 
 	{
 		$s=$img->src; 
-		$img_name = 'C:\xampp\htdocs\pic\saber/'.basename($s); //change it
+		$img_name = 'result/'.basename($s); //change it
 		file_put_contents($img_name, file_get_contents($s)); 
 	}
 	}
 	
 	
 ?>
-  <center><font face="Ubuntu" size="5" color="white"><b>nHentai Connect by Sc0<b/></font></center>
-<center><img class='image' src='https://3.bp.blogspot.com/-6XZOk6uPV4U/XEBO8xwFcwI/AAAAAAAABL4/BDAHAxIoOCAZCO0FmEnNtAyGXoTx9dz6wCLcBGAs/s1600/weeblogo.png' width='700' height='620'/>
+  <center><font face="Ubuntu" size="5" color="white"><b>nHentai Grabber by Sc0<b/></font></center>
+<center><img class='image' src='https://3.bp.blogspot.com/-6XZOk6uPV4U/XEBO8xwFcwI/AAAAAAAABL4/BDAHAxIoOCAZCO0FmEnNtAyGXoTx9dz6wCLcBGAs/s1600/weeblogo.png' width='600' height='520'/>
 <body bgcolor=black>
 <form id="form1" name="form1" method="post" action="">
   <table width="300"  align="center" cellpadding="1" cellspacing="1">
