@@ -2,12 +2,12 @@
 <link rel="shortcut icon" href="https://4.bp.blogspot.com/-DweioerHPNg/XEAf4rEqqqI/AAAAAAAABLc/d_BTxB3uqro1gxaU-iSgK0Apu3YA7pMfgCLcBGAs/s1600/slemanb0ys-ico.jpg" type="image/x-icon">
 <meta name='author' content='Sinkaroid Stupidc0de'>
 <link href="http://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet" type="text/css">
-<center><font face="Ubuntu" size="5" color="black"><b>[!] STEALING SUCCEED [!]<b/></font></center>
+<center><font face="Ubuntu" size="5" color="black"><b>[!] nHentai Mirror [!]<b/></font></center>
 <br>
 
 <center><font face="Ubuntu" size="4" color="black"><b><i>a sec till complete.. then, go put in nhentai connect</i><b/></font></center>
 <center><font face="Ubuntu" size="2" color="black"><b><i>u can touch this kato face</i><b/></font></center>
-<center><a href="connect.php" rel="nofollow" target="_blank"><img src="https://lh3.googleusercontent.com/-EvJVjsdiFDg/XEAXkLbZpGI/AAAAAAAABKw/wOPDsCIg4vsB14vljDh7C8YgrzwUjb7uACLcBGAs/h120/kano.png" width="100" height="100"/><a/><br /><center>
+<center><a href="grab.php" rel="nofollow" target="_blank"><img src="https://lh3.googleusercontent.com/-EvJVjsdiFDg/XEAXkLbZpGI/AAAAAAAABKw/wOPDsCIg4vsB14vljDh7C8YgrzwUjb7uACLcBGAs/h120/kano.png" width="100" height="100"/><a/><br /><center>
 <p>
 <center>
 <?php
@@ -15,7 +15,7 @@ for ($i= 1; $i <= 24; $i++) ///IMPORTANT ,check the folder, see how many picture
 {
 echo" <img width='400' height='540' src=";
 /**geturl**/ echo "https://i.nhentai.net/galleries";
-echo "/1345174/"; ///put code here 
+echo "/1345174/"; ///put nh code galleries here [NH GALLERY CODE NOT DOUJIN CODE]
 echo $i; echo".jpg"; ///check nh folder first, if png format just change it
 echo ">";
 echo "";
