@@ -18,7 +18,7 @@ echo" <img width='400' height='540' src=";
 echo "/1345174/"; ///put nh code galleries here [NH GALLERY CODE NOT DOUJIN CODE]
 echo $i; echo".jpg"; ///check nh folder first, if png format just change it
 echo ">";
-echo "";
+
 }
 
 
