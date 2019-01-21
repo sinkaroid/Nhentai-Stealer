@@ -36,3 +36,20 @@ private serv are recommended</div>
 <a href="https://4.bp.blogspot.com/-wGRT4Xsiozo/XEI-JnOcNrI/AAAAAAAABNE/_b83aH0e3cAriNe0YudnFlLfKGN4obfVwCLcBGAs/s1600/weeblogo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="999" data-original-width="1114" height="572" src="https://4.bp.blogspot.com/-wGRT4Xsiozo/XEI-JnOcNrI/AAAAAAAABNE/_b83aH0e3cAriNe0YudnFlLfKGN4obfVwCLcBGAs/s640/weeblogo.png" width="640" /></a></div>
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<div style="text-align: left;">
+COMPRESS</div>
+<div style="text-align: left;">
+<br /></div>
+<div style="text-align: left;">
+-cPanel</div>
+<blockquote class="tr_bq" style="text-align: left;">
+click folder output&gt; Compress &gt; Download</blockquote>
+<div style="text-align: left;">
+-Linux</div>
+<blockquote class="tr_bq" style="text-align: left;">
+<i><b>zip -r oneenee.zip oneenee</b></i></blockquote>
+PS: if your doujin file is too much, it may be blank for a moment, just input again and reload<br />
+<div style="text-align: center;">
+<br /></div>
