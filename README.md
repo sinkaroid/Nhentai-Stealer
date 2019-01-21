@@ -1,7 +1,6 @@
 # Nhentai-Stealer-WebBased
-Nhentai mass Grabber Using PHPwebcrawler
+Nhentai mass Grabber Using PHPwebcrawler.
 No need torrent
-
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://3.bp.blogspot.com/-mXbFQOjsMZ0/XEI_FcOIsrI/AAAAAAAABNQ/UE4pNbAxyT8BbHyG-_b1DOMvH00w6ppMwCLcBGAs/s1600/Screenshot_6.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="900" data-original-width="1600" height="360" src="https://3.bp.blogspot.com/-mXbFQOjsMZ0/XEI_FcOIsrI/AAAAAAAABNQ/UE4pNbAxyT8BbHyG-_b1DOMvH00w6ppMwCLcBGAs/s640/Screenshot_6.jpg" width="640" /></a></div>
 <div class="separator" style="clear: both; text-align: center;">
