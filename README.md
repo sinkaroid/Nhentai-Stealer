@@ -1,8 +1,14 @@
 # Nhentai-Stealer-WebBased
 Nhentai mass Grabber Using PHPwebcrawler.
 No need torrent
+
+=======
+<br />
+
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://3.bp.blogspot.com/-mXbFQOjsMZ0/XEI_FcOIsrI/AAAAAAAABNQ/UE4pNbAxyT8BbHyG-_b1DOMvH00w6ppMwCLcBGAs/s1600/Screenshot_6.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="900" data-original-width="1600" height="360" src="https://3.bp.blogspot.com/-mXbFQOjsMZ0/XEI_FcOIsrI/AAAAAAAABNQ/UE4pNbAxyT8BbHyG-_b1DOMvH00w6ppMwCLcBGAs/s640/Screenshot_6.jpg" width="640" /></a></div>
+<a href="https://2.bp.blogspot.com/-KmLk_mexljE/XE9dA3Igo1I/AAAAAAAAIwc/evll3qW_MCgL8QNIeAR4IcseSxRu1pn0QCLcBGAs/s1600/Screenshot_6.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="900" data-original-width="1600" height="360" src="https://2.bp.blogspot.com/-KmLk_mexljE/XE9dA3Igo1I/AAAAAAAAIwc/evll3qW_MCgL8QNIeAR4IcseSxRu1pn0QCLcBGAs/s640/Screenshot_6.png" width="640" /></a></div>
+<div class="separator" style="clear: both; text-align: center;">
+</div>
 <div class="separator" style="clear: both; text-align: center;">
 </div>
 <div class="separator" style="clear: both; text-align: center;">
@@ -24,21 +30,21 @@ ex:&nbsp;https://nhentai.net/g/259434/ |&nbsp;https://i.nhentai.net/galleries/13
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://1.bp.blogspot.com/-yjcmIbRPpFI/XEI9aSZuWkI/AAAAAAAABMw/8QNQwzwU8NMyjSf3-BlKJOPbcsaPNEMywCLcBGAs/s1600/Screenshot_5.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="900" data-original-width="1600" height="225" src="https://1.bp.blogspot.com/-yjcmIbRPpFI/XEI9aSZuWkI/AAAAAAAABMw/8QNQwzwU8NMyjSf3-BlKJOPbcsaPNEMywCLcBGAs/s400/Screenshot_5.jpg" width="400" /></a></div>
+<a href="https://1.bp.blogspot.com/-yjcmIbRPpFI/XEI9aSZuWkI/AAAAAAAABMw/8QNQwzwU8NMyjSf3-BlKJOPbcsaPNEMywCLcBGAs/s1600/Screenshot_5.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="900" data-original-width="1600" height="179" src="https://1.bp.blogspot.com/-yjcmIbRPpFI/XEI9aSZuWkI/AAAAAAAABMw/8QNQwzwU8NMyjSf3-BlKJOPbcsaPNEMywCLcBGAs/s320/Screenshot_5.jpg" width="320" /></a></div>
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>
-<div class="separator" style="clear: both; text-align: center;">
+<div class="separator" style="clear: both; text-align: left;">
 private serv are recommended</div>
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://4.bp.blogspot.com/-wGRT4Xsiozo/XEI-JnOcNrI/AAAAAAAABNE/_b83aH0e3cAriNe0YudnFlLfKGN4obfVwCLcBGAs/s1600/weeblogo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="999" data-original-width="1114" height="572" src="https://4.bp.blogspot.com/-wGRT4Xsiozo/XEI-JnOcNrI/AAAAAAAABNE/_b83aH0e3cAriNe0YudnFlLfKGN4obfVwCLcBGAs/s640/weeblogo.png" width="640" /></a></div>
+</div>
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
 </div>
 <div style="text-align: left;">
-COMPRESS</div>
+# Compress
 <div style="text-align: left;">
 <br /></div>
 <div style="text-align: left;">
@@ -46,7 +52,7 @@ COMPRESS</div>
 <blockquote class="tr_bq" style="text-align: left;">
 click folder output&gt; Compress &gt; Download</blockquote>
 <div style="text-align: left;">
--Linux</div>
+-Linux </div>
 <blockquote class="tr_bq" style="text-align: left;">
 <i><b>zip -r oneenee.zip oneenee</b></i></blockquote>
 PS: if your doujin file is too much, it may be blank for a moment, just input again and reload<br />
